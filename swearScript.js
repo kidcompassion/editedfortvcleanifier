@@ -1,4 +1,3 @@
-
     var pageContent = document.body.innerHTML;
 
     //finds the bad words on the page
@@ -7,7 +6,7 @@
      //counts how many times the word appears
     var matchingSwears = pageContent.match(/\bass|fuck|motherfuck|hell|shit|dick|cunt|bitch|cock|damn/gi);
     //sets quotes as global variable
-    var quotes = ["bingbong", "singsong"];
+    var quotes;
     //console.log(matchingSwears);
 
     //counts how many swears on the page
