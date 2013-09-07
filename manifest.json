@@ -2,8 +2,8 @@
 {
   "manifest_version": 2,
 
-  "name": "TBS Cleanifier",
-  "version": "1.0",
+  "name": "Edited for TV Cleanifier",
+  "version": "0.1",
   "permissions": [
     "tabs", "http://*/*"
   ],
